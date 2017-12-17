@@ -8,7 +8,7 @@ function happyHolidays(string)
 }
   
 
-//NUMBER TWO  
+//NUMBER TWO  (test passed)
 
 
 function happyHolidaysTo(name)
