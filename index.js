@@ -36,7 +36,7 @@ return ('Happy ${holiday}, ${name}!')
 //NUMBER FOUR
 
 function holidayCountdown(holiday, days){
-  if ("It\'s ${days} days until ${holiday}!" === "It\'s 20 days until Mother\'s Day!")
+  if (20 === "It\'s 20 days until Mother\'s Day!")
   {return ("It\'s ${days} days until ${holiday}!")}
   
   else if ('Mother\'s Day' === "It\'s 20 days until Mother\'s Day!")
