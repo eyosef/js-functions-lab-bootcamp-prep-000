@@ -21,7 +21,7 @@ function happyHolidaysTo(name)
 //NUMBER THREE
 
 function happyHolidayTo(holiday, name)
-{ if (`Independence Day` === `Happy Independence Day, you!`)
+{ if (`Happy Independence Day, you!` === `Happy Independence Day, you!`)
 return (`Happy ${holiday}, ${name}!`)
 
   else if (`you` === `Happy Independence Day, you!`)
