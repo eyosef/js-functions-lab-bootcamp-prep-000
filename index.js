@@ -24,9 +24,6 @@ function happyHolidayTo(holiday, name)
 { if (`Happy Independence Day, you!` === `Happy Independence Day, you!`)
 return (`Happy ${holiday}, ${name}!`)
 
-  else if (`you` === `Happy Independence Day, you!`)
-  return (`Happy ${holiday}, ${name}!`)
-
 }
  
 //NUMBER FOUR
