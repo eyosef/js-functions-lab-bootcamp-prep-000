@@ -25,8 +25,12 @@ function happyHolidaysTo(name)
 //NUMBER THREE
 
 function happyHolidayTo(holiday, name)
-{ if ('Independence Day', 'you' === 'Happy Independence Day, you!')
+{ if ('Independence Day' === 'Happy Independence Day, you!')
 return ('Happy ${holiday}, ${name}!')
+
+  else if ('you' === 'Happy Independence Day, you!')
+  return ('Happy ${holiday}, ${name}!')
+
 }
  
 //NUMBER FOUR
@@ -36,4 +40,5 @@ function holidayCountdown(holiday, days){
   {return ("It\'s ${days} days until ${holiday}!")}
   
 }
+ 
  
