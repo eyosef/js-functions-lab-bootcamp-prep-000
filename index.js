@@ -17,7 +17,7 @@ function happyHolidays(string)
 
 function happyHolidaysTo(name)
 {
-  if ("Happy holidays, you!" === "Happy holidays, you!")
+  if ("Happy holidays, ${name}!" === "Happy holidays, you!")
    {return ("Happy holidays, ${name}!")}
 }
 
