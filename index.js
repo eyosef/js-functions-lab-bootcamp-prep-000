@@ -10,10 +10,6 @@ function happyHolidays(string)
 
 //NUMBER TWO  
 
-// var holiday = "Independence Day";
-// var days = "20";
-// var name = "you";
-// var holiday = "holidays"
 
 function happyHolidaysTo(name)
 {
