@@ -13,8 +13,8 @@ function happyHolidays(string)
 
 function happyHolidaysTo(name)
 {
-  if ("Happy holidays, ${name}!" === "Happy holidays, you!")
-   {return ("Happy holidays, ${name}!")}
+  if ('Happy holidays, ${name}!' === 'Happy holidays, you!')
+   {return ('Happy holidays, ${name}!')}
 }
 
 
